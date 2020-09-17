@@ -1,0 +1,15 @@
+{
+    "start": 1600324225.430166,
+    "script": "test_ks.air",
+    "tests": {
+        "12d4904f": {
+            "status": 255,
+            "device": "12d4904f",
+            "path": ""
+        },
+        "a87fdc50": {
+            "status": 255,
+            "path": "test_ks.air/log/a87fdc50/log.html"
+        }
+    }
+}
